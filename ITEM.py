@@ -11,8 +11,8 @@ class Item:
 
 def viewFullDescription():
     return()
-    def addToCart():
-        return()
-        def updateStockLevel():
-            return()
+def addToCart():
+    return()
+def updateStockLevel():
+    return()
 
